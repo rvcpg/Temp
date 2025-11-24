@@ -1,7 +1,7 @@
 {
   "name": "happy-birthday",
   "version": "1.0.0",
-  "description": "An app that let's me greet Anjali.",
+  "description": "An app that let's me greet Gouri.",
   "main": "index.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://rvcpg.github.io/Aj-s_B-day/"
+    "url": "https://rvcpg.github.io/Temp/"
   },
   "keywords": [
     "Happy",
@@ -25,8 +25,8 @@
   "author": "Ravi",
   "license": "Infy",
   "bugs": {
-    "url": "https://rvcpg.github.io/Aj-s_B-day/"
+    "url": "https://rvcpg.github.io/Temp/"
   },
-  "homepage": "https://rvcpg.github.io/Aj-s_B-day/",
+  "homepage": "https://rvcpg.github.io/Temp/",
   "dependencies": {}
 }
